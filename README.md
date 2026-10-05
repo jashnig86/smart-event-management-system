@@ -45,13 +45,6 @@ You'll see a green success page confirming the admin account is ready.
 
 ---
 
-## 🔐 Default Admin Credentials
-
-| Field    | Value             |
-|----------|-------------------|
-| Email    | admin@eventms.com |
-| Password | admin123          |
-
 > You MUST run `setup_admin.php` first — otherwise admin login won't work!
 
 ---
